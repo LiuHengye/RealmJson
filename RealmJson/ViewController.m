@@ -38,6 +38,9 @@
     NSLog(@"%@",user.hd_keyValues);
     
     
+    NSLog(@"更新了吗");
+    
+    
 }
 
 
